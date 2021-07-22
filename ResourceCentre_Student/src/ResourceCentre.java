@@ -21,6 +21,7 @@ public class ResourceCentre {
 
 			if (option == 1) {
 				// View all items
+				//
 				ResourceCentre.viewAllCamcorder(camcorderList);
 				ResourceCentre.viewAllChromebook(chromebookList);
 
