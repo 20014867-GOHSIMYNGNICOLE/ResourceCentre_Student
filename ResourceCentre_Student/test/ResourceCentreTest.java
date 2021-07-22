@@ -131,7 +131,8 @@ public class ResourceCentreTest {
 		//fail("Not yet implemented");
 		// write your code here
 		//NEHLA 
-		//
+		//test if the chromebook list is empty
+		assertNotNull("Test if there is available Chromebook ", chromebookList);
 		
 	}
 	
