@@ -110,7 +110,7 @@ public class ResourceCentreTest {
 	public void testDoReturnChromebook() {
 		//fail("Not yet implemented");
 		// write your code here
-		//Nicole Goh
+		//NICOLE
 	}
 	
 	@After
