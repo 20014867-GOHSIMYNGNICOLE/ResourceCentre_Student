@@ -95,7 +95,7 @@ public class ResourceCentreTest {
 	public void testDoLoanChromebook() {
 		//fail("Not yet implemented");
 		// write your code here
-		// 2 Nehla Fathima
+		// 3 Nehla Fathima
 		
 	}
 	
