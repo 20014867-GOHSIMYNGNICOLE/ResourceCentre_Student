@@ -82,6 +82,8 @@ public class ResourceCentreTest {
 	public void testRetrieveAllChromebook() {
 		//fail("Not yet implemented");
 		// write your code here
+		// Zuer
+		
 	}
 
 	@Test
